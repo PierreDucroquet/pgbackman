@@ -66,7 +66,7 @@ try:
     #
 
     setup(name='pgbackman',
-          version=pgbackman['__version__'].split(':')[1],
+          version=pgbackman['__version__'].split(':')[1] + 'rc1',
           description='PGBACKMAN - PostgreSQL Backup Manager',
           author='Rafael Martinez Guerrero',
           author_email='rafael@postgresql.org.es',

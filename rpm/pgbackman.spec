@@ -13,7 +13,7 @@
 
 Summary:        PostgreSQL backup manager
 Name:           pgbackman
-Version:        %{majorversion}.%{minorversion}
+Version:        %{majorversion}.%{minorversion}rc1
 Release:        1%{?dist}
 License:        GPLv3
 Group:          Applications/Databases
